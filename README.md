@@ -11,7 +11,7 @@ This module focuses on installing, configuring, and using Snort to detect and re
 - Understand Snort architecture and working principles  
 - Configure Snort in **sniffer, packet logger, and IDS/IPS modes**  
 - Write and test **custom Snort rules**  
-- Analyze network traffic using Snort alerts and logs  
+- Analyze network traffic using Snort alerts and logs 
 - Detect common network attacks (e.g., port scanning, DoS, buffer overflow attempts)  
 
 ---
